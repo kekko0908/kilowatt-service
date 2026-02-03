@@ -1,0 +1,283 @@
+%PDF-1.4
+%KilowattService
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3611 >>
+stream
+q
+0 0 0 rg
+0 0 595 842 re
+f
+Q
+0.639 0.902 0.208 rg
+0 760 595 2 re
+f
+40 0 3 842 re
+f
+0.639 0.902 0.208 RG
+1 w
+410 790 140 20 re
+S
+BT
+/F2 26 Tf
+1 1 1 rg
+1 0 0 1 60 792 Tm
+(KILOWATT) Tj
+0.639 0.902 0.208 rg
+(.srv) Tj
+ET
+BT
+/F1 11 Tf
+0.7 0.7 0.7 rg
+1 0 0 1 60 772 Tm
+(Eventi, Digital & Investimenti) Tj
+ET
+BT
+/F2 16 Tf
+1 1 1 rg
+1 0 0 1 60 745 Tm
+(Architettura e tecnologie) Tj
+ET
+BT
+/F1 10 Tf
+0.55 0.55 0.55 rg
+1 0 0 1 60 728 Tm
+(Data: 02/02/2026) Tj
+ET
+BT
+/F1 9 Tf
+0.639 0.902 0.208 rg
+1 0 0 1 420 796 Tm
+(DOCUMENTO TECNICO) Tj
+ET
+BT
+/F2 12 Tf
+0.639 0.902 0.208 rg
+1 0 0 1 60 690 Tm
+(PANORAMICA) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 672 Tm
+(- SPA React con routing client-side; build con Vite.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 658 Tm
+(- Backend as a Service con Supabase: Auth, Postgres, Storage.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 644 Tm
+(- Il client comunica direttamente con Supabase via @supabase/supabase-js.) Tj
+ET
+BT
+/F2 12 Tf
+0.639 0.902 0.208 rg
+1 0 0 1 60 622 Tm
+(FRONT-END) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 604 Tm
+(- React 18 + TypeScript.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 590 Tm
+(- Routing: React Router.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 576 Tm
+(- UI: Tailwind CSS, tailwind-merge, tailwindcss-animate, class-variance-authority.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 562 Tm
+(- Icone: Lucide React, React Icons; loader: ldrs.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 548 Tm
+(- Mappe e 3D: Leaflet, OGL WebGL.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 534 Tm
+(- SEO: react-helmet-async.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 520 Tm
+(- Font: Kanit, Montserrat da Google Fonts.) Tj
+ET
+BT
+/F2 12 Tf
+0.639 0.902 0.208 rg
+1 0 0 1 60 498 Tm
+(BACK-END - SUPABASE) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 480 Tm
+(- Auth: email/password e Google OAuth.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 466 Tm
+(- Database Postgres con tabelle per catalogo, servizi, pacchetti, preventivi e SEO.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 452 Tm
+(- Storage: bucket proposals per upload file proposte.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 438 Tm
+(- Sicurezza: RLS attivo con policy pubbliche in lettura e policy per proprietario.) Tj
+ET
+BT
+/F2 12 Tf
+0.639 0.902 0.208 rg
+1 0 0 1 60 416 Tm
+(DATI PRINCIPALI - TABELLE) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 398 Tm
+(- products, service_catalog, services.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 384 Tm
+(- packages, package_services, package_products.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 370 Tm
+(- quotes, quote_items.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 356 Tm
+(- projects.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 342 Tm
+(- seo_config.) Tj
+ET
+BT
+/F2 12 Tf
+0.639 0.902 0.208 rg
+1 0 0 1 60 320 Tm
+(FLUSSI PRINCIPALI) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 302 Tm
+(- Catalogo: lettura pubblica prodotti e servizi.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 288 Tm
+(- Preventivi: utente autenticato crea quote e items.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 274 Tm
+(- Power By: upload proposta e creazione record project.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 260 Tm
+(- SEO: settings per pagina, es. home.) Tj
+ET
+BT
+/F2 12 Tf
+0.639 0.902 0.208 rg
+1 0 0 1 60 238 Tm
+(CONFIGURAZIONE E BUILD) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 220 Tm
+(- Variabili: VITE_SUPABASE_URL, VITE_SUPABASE_ANON_KEY.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 206 Tm
+(- GEMINI_API_KEY configurata in Vite, se necessaria.) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 60 192 Tm
+(- Dev: npm run dev; Build: npm run build.) Tj
+ET
+0.639 0.902 0.208 rg
+0 58 595 1.5 re
+f
+BT
+/F1 9 Tf
+0.55 0.55 0.55 rg
+1 0 0 1 60 40 Tm
+(\(c\) 2026 Kilowatt Service. Documento ad uso cliente.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000026 00000 n 
+0000000075 00000 n 
+0000000132 00000 n 
+0000000268 00000 n 
+0000003931 00000 n 
+0000004001 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4076
+%%EOF

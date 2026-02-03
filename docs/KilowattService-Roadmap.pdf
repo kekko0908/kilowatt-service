@@ -1,0 +1,242 @@
+%PDF-1.4
+%KilowattService
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2797 >>
+stream
+q
+0 0 0 rg
+0 0 595 842 re
+f
+Q
+0.639 0.902 0.208 rg
+0 760 595 2 re
+f
+40 0 3 842 re
+f
+BT
+/F2 26 Tf
+1 1 1 rg
+1 0 0 1 60 792 Tm
+(KILOWATT) Tj
+0.639 0.902 0.208 rg
+(.srv) Tj
+ET
+BT
+/F1 11 Tf
+0.7 0.7 0.7 rg
+1 0 0 1 60 772 Tm
+(Eventi, Digital & Investimenti) Tj
+ET
+BT
+/F2 16 Tf
+1 1 1 rg
+1 0 0 1 60 745 Tm
+(Roadmap funzionalita - proposta) Tj
+ET
+BT
+/F1 10 Tf
+0.55 0.55 0.55 rg
+1 0 0 1 60 728 Tm
+(Data: 02/02/2026) Tj
+ET
+0.639 0.902 0.208 RG
+2 w
+90 160 m
+90 680 l
+S
+0.639 0.902 0.208 rg
+85 665 10 10 re
+f
+BT
+/F2 12 Tf
+0.639 0.902 0.208 rg
+1 0 0 1 120 680 Tm
+(FASE 1 - Stabilizzazione) Tj
+ET
+BT
+/F1 10 Tf
+0.55 0.55 0.55 rg
+1 0 0 1 120 664 Tm
+(Feb - Mar 2026) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 644 Tm
+(- QA generale e fix bug critici) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 630 Tm
+(- Performance e ottimizzazione immagini) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 616 Tm
+(- Pulizia dati catalogo e seo_config) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 602 Tm
+(- Rafforzamento sicurezza RLS + logging essenziale) Tj
+ET
+0.639 0.902 0.208 rg
+85 515 10 10 re
+f
+BT
+/F2 12 Tf
+0.639 0.902 0.208 rg
+1 0 0 1 120 530 Tm
+(FASE 2 - Preventivi & CRM) Tj
+ET
+BT
+/F1 10 Tf
+0.55 0.55 0.55 rg
+1 0 0 1 120 514 Tm
+(Apr - Mag 2026) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 494 Tm
+(- Area utente con storico preventivi) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 480 Tm
+(- Export PDF preventivo + invio email) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 466 Tm
+(- Workflow quote \(draft/sent/accepted\)) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 452 Tm
+(- Pannello admin per catalogo e pacchetti) Tj
+ET
+0.639 0.902 0.208 rg
+85 365 10 10 re
+f
+BT
+/F2 12 Tf
+0.639 0.902 0.208 rg
+1 0 0 1 120 380 Tm
+(FASE 3 - Booking & Pagamenti) Tj
+ET
+BT
+/F1 10 Tf
+0.55 0.55 0.55 rg
+1 0 0 1 120 364 Tm
+(Giu - Lug 2026) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 344 Tm
+(- Calendario disponibilita prodotti/servizi) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 330 Tm
+(- Pagamento online \(Stripe\) e acconti) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 316 Tm
+(- Gestione consegne e logistica) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 302 Tm
+(- Notifiche automatiche \(email/whatsapp\)) Tj
+ET
+0.639 0.902 0.208 rg
+85 215 10 10 re
+f
+BT
+/F2 12 Tf
+0.639 0.902 0.208 rg
+1 0 0 1 120 230 Tm
+(FASE 4 - Marketing & Insights) Tj
+ET
+BT
+/F1 10 Tf
+0.55 0.55 0.55 rg
+1 0 0 1 120 214 Tm
+(Ago - Set 2026) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 194 Tm
+(- Dashboard KPI e analytics avanzati) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 180 Tm
+(- Portfolio/casi studio e blog) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 166 Tm
+(- SEO evoluto e schema markup) Tj
+ET
+BT
+/F1 11 Tf
+1 1 1 rg
+1 0 0 1 120 152 Tm
+(- Landing A/B test per campagne) Tj
+ET
+0.639 0.902 0.208 rg
+0 58 595 1.5 re
+f
+BT
+/F1 9 Tf
+0.55 0.55 0.55 rg
+1 0 0 1 60 40 Tm
+(\(c\) 2026 Kilowatt Service. Documento ad uso cliente.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000026 00000 n 
+0000000075 00000 n 
+0000000132 00000 n 
+0000000268 00000 n 
+0000003117 00000 n 
+0000003187 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3262
+%%EOF
